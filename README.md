@@ -1,3 +1,3 @@
-# bamgoo
+## infrago
 
-Bamgoo is a Go framework inspired by bamboo: flexible nodes connected through a shared root bus, scaling effortlessly from a single process to distributed clusters.
+infrago is a modular Go framework where flexible nodes communicate through a shared root bus, enabling seamless scaling from a single process to distributed clusters.
